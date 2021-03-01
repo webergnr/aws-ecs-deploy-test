@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "name": "aws-ecs-deploy-test",
   "version": "1.0.0",
   "main": "index.js",
